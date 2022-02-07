@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/new-test-r-style/static/css/main.af606e0c.css",
+    "main.js": "/new-test-r-style/static/js/main.05eea56d.js",
+    "index.html": "/new-test-r-style/index.html",
+    "main.af606e0c.css.map": "/new-test-r-style/static/css/main.af606e0c.css.map",
+    "main.05eea56d.js.map": "/new-test-r-style/static/js/main.05eea56d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af606e0c.css",
+    "static/js/main.05eea56d.js"
+  ]
+}
